@@ -10,7 +10,7 @@ function Header({ font }: HeaderProps){
         <div className={`${font.className} links-parent`}>
             <header className="links">
                 <div className="link">
-                    <Link href = ""></testingLink>
+                    <Link href = "">testing</Link>
                 </div>
 
                 <div className="link">
