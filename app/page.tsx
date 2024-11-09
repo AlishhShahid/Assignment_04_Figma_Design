@@ -52,14 +52,7 @@ function Home() {
 
             <div className="card-parent">
                   <div className="card">
-                    <img
-                      className="img"
-                      src="/01.png"
-                      width={250}
-                      height={190}
-                      alt="image"
-                    />
-
+                    <img className="img" src="/01.png" width={250} height={190} alt="image" />
                     <div className="card-content">
                       <h2 className="h2">Designing Dashboard</h2>
                       <div className="badge-parent">
@@ -77,14 +70,7 @@ function Home() {
                   </div>
 
                   <div className="card">
-                    <img
-                      className="img"
-                      src="/02.png"
-                      width={250}
-                      height={190}
-                      alt="image"
-                    />
-
+                    <img className="img" src="/02.png" width={250} height={190} alt="image" />
                     <div className="card-content">
                       <h2 className="h2">Designing Dashboard</h2>
                       <div className="badge-parent">
@@ -102,14 +88,7 @@ function Home() {
                   </div>
 
                   <div className="card">
-                    <img
-                      className="img"
-                      src="/03.png"
-                      width={250}
-                      height={190}
-                      alt="image"
-                    />
-
+                    <img className="img" src="/03.png" width={250} height={190} alt="image" />
                     <div className="card-content">
                       <h2 className="h2">Designing Dashboard</h2>
                       <div className="badge-parent">
