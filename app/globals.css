@@ -205,17 +205,6 @@ body {
  
 }
 
- .featured-works .card .img {
-  width: 246px;
-  height: 180px;
-  top: 1310px;
-  left: 237px;
-  gap: 0px;
-  border-radius: 6px 0px 0px 0px;
-  opacity: 0px;
-
-} 
-
 .featured-works .main-heading h3{
   font-size: 22px;
   font-weight: 540;
